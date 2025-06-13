@@ -1,29 +1,33 @@
 <h1 align="center">Hi 👋, I'm Monika Senger</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MCA Student | Passionate Coder</h3>
+<h3 align="center">Aspiring Java Full-Stack | MCA Student | Passionate Coder & UI Designer</h3>
 
 <p align="center">
-🌱 Currently learning: <strong>Java | React | Spring Boot | MongoDB | MySQL</strong><br>
-💡 Exploring: <strong>Full Stack Web Development, API Integration, UI/UX</strong><br>
-🎯 Goal: To become a skilled Full Stack Developer and build impactful real-world projects.<br>
-📫 Reach me on: <a href="https://www.linkedin.com/in/monika-your-id/">LinkedIn</a>
+💻 Building real-world projects with Java, React, MySQL & MongoDB  
+🌱 Currently learning: <strong>Spring Boot, MERN Stack, OAuth, JWT, and Security Concepts</strong>  
+📚 Final Year MCA @ IMT, Affiliated to MDU  
+🎯 Goal: To become a confident Full-Stack Developer and work on impactful software solutions  
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm pursuing MCA from Institute of Management and Technology (MDU affiliated)
-- 💻 I love building full-stack web applications and solving real-world problems through code
-- 💬 I like to talk about Java, React, MongoDB, MySQL, and building smart UIs
-- 🤝 Actively looking for **internship / job opportunities** in software development
+### 👩‍💻 About Me
+
+- 🔸 I started with Java and UI design, and now I’m learning Full-Stack Development  
+- 🔸 I enjoy both front-end design and back-end logic building  
+- 🔸 I’ve created academic + practical projects using Java, React, and databases  
+- 🔸 I balance my studies, personal growth, home responsibilities, and coding journey with dedication  
+- 🔸 I'm working on becoming calm, focused, and emotionally strong – a true "Queen Master" mindset 👑
 
 ---
 
-### 🛠️ Skills
-- **Languages:** Java, JavaScript
-- **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express.js, Java (Spring Boot - learning)
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
+### 🛠️ Technical Skills
+
+- **Languages:** Java, JavaScript  
+- **Frontend:** HTML, CSS, React.js  
+- **Backend:** Node.js, Express.js, Java (Spring Boot – Learning)  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Other:** UI Designing, Project Documentation, GitHub Profile Building
 
 ---
 
@@ -31,24 +35,25 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Inventory Management System** | Java + MySQL | Stock tracking, billing system, and product management |
-| **Doctor Appointment Booking** | React + MongoDB | Responsive frontend with doctor listing and appointment scheduling |
-| **BookBuzz (Admin-Only)** | MERN Stack | Book review management app for admin dashboard |
-
-> Checkout all my projects in [Repositories](https://github.com/monika-senger?tab=repositories)
-
+| **Inventory Management System** | Java + MySQL | Stock tracking, billing system, and product management panel |
+| **Doctor Appointment Booking (Medished)** | React + MongoDB | Responsive frontend with doctor listing, booking & cancellation |
+| **BookBuzz (Admin-Only)** | MERN Stack | Book review management platform with admin dashboard |
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=radical" alt="Monika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌟 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/monika-your-id)
-- 📧 Email: your-email@example.com
+### 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://linkedin.com/in/monika-your-id)
+- 📧 Email: monikasenger@example.com  
+- 📝 Portfolio: Coming soon...
 
 ---
 
+_“Consistency and courage — that's my code to success.”_ 🌸  
