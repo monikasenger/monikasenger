@@ -1,57 +1,75 @@
-<h1 align="center">Hi 👋, I'm Monika Senger</h1>
-<h3 align="center">Aspiring Java Full-Stack | MCA Student | Passionate Coder & UI Designer</h3>
+<!-- GitHub Profile README - Monika Senger -->
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#00CED1;">Monika Senger</span></h1>
+<h3 align="center">🚀 Aspiring Java Full-Stack Developer | MCA Final Year Student | Passionate Problem Solver</h3>
 
 <p align="center">
-💻 Building real-world projects with Java, React, MySQL & MongoDB  
-🌱 Currently learning: <strong>Spring Boot, MERN Stack, OAuth, JWT, and Security Concepts</strong>  
-📚 Final Year MCA @ IMT, Affiliated to MDU  
-🎯 Goal: To become a confident Full-Stack Developer and work on impactful software solutions  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔸 I started with Java and UI design, and now I’m learning Full-Stack Development  
-- 🔸 I enjoy both front-end design and back-end logic building  
-- 🔸 I’ve created academic + practical projects using Java, React, and databases  
-- 🔸 I balance my studies, personal growth, home responsibilities, and coding journey with dedication  
-- 🔸 I'm working on becoming calm, focused, and emotionally strong – a true "Queen Master" mindset 👑
+- 🎓 MCA Final Year Student at IMT (MDU Affiliated)  
+- 💻 Currently building real-world Full Stack Projects using Java, React, MySQL & MongoDB  
+- 🌱 Learning: `Spring Boot`, `OAuth & JWT`, `Node.js`, `MERN stack`  
+- 🎯 Goal: To become a confident Full-Stack Developer with strong backend + UI skills  
+- 🧘 Balancing code, home, and calmness – working towards being a true **Queen Master** 👑  
 
 ---
 
-### 🛠️ Technical Skills
+### 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js, Java (Spring Boot – Learning)  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code
-- **Other:** UI Designing, Project Documentation, GitHub Profile Building
+| Category | Tools |
+|----------|-------|
+| 👩‍💻 Languages | Java, JavaScript |
+| 🎨 Frontend | HTML, CSS, React.js |
+| 🛠️ Backend | Java (Spring Boot), Node.js, Express.js |
+| 🗃️ Database | MySQL, MongoDB |
+| 🧰 Tools | Git, GitHub, VS Code, Postman |
 
 ---
 
-### 💼 Projects
+### 💼 Projects Showcase
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Inventory Management System** | Java + MySQL | Stock tracking, billing system, and product management panel |
-| **Doctor Appointment Booking (Medished)** | React + MongoDB | Responsive frontend with doctor listing, booking & cancellation |
-| **BookBuzz (Admin-Only)** | MERN Stack | Book review management platform with admin dashboard |
+| **Inventory Management System** | Java + MySQL | Product tracking, stock, and billing management |
+| **Medished (Doctor Booking)** | React + MongoDB | Book & manage doctor appointments |
+| **BookBuzz (Admin Panel)** | MERN Stack | Admin-only book review system |
+| **.NET Web Apps** | ASP.NET | 15+ practical programs including OOPs, sessions, cookies |
+| **Hotel Menu Card, ATM System, Student Mgmt.** | Java GUI | Mini-projects with real-life logic |
+
+> 🔗 [Explore All Repositories »](https://github.com/monika-senger?tab=repositories)
+
 ---
 
 ### 📊 GitHub Stats
 
-
-
----
-
-### 📫 Let's Connect!
-
-- 🌐 [LinkedIn]
-- 📧 Email:
-- 📝 Portfolio: Coming soon...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-_“Consistency and courage — that's my code to success.”_ 🌸  
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/monika-yourid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:monikasenger@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> 🧠 *“Consistency, Courage & Code – That’s my path to success.”* 🌼
+
+ 
