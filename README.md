@@ -26,7 +26,7 @@
 - **Frontend:** HTML, CSS, React.js  
 - **Backend:** Node.js, Express.js, Java (Spring Boot – Learning)  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools:** Git, GitHub, VS Code
 - **Other:** UI Designing, Project Documentation, GitHub Profile Building
 
 ---
@@ -42,16 +42,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=tokyonight" />
-</p>
+
 
 ---
 
 ### 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/monika-your-id)
-- 📧 Email: monikasenger@example.com  
+- 🌐 [LinkedIn]
+- 📧 Email:
 - 📝 Portfolio: Coming soon...
 
 ---
