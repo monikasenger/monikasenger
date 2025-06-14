@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Monika Senger</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=MCA+Graduate+%7C+Java+%26+MERN+Stack+Developer;Building+Real-World+Projects;Learning+Spring+Boot+%26+React;&center=true&width=500&height=50&color=F76C6C&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Java+%26+MERN+Stack+Developer;Passionate+about+Web+%26+Desktop+Applications;Currently+Learning+Spring+Boot+%26+Advanced+React;Full+Stack+Developer+in+Progress+🚀;Open+to+Internships+%26+Collaboration+🤝" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -87,7 +88,6 @@ JB Knowledge Park, MDU (2019–2022)
 - 👩‍💻 Java Full Stack (Angular) – 435 hrs by Anudip Foundation
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -96,18 +96,18 @@ JB Knowledge Park, MDU (2019–2022)
 </p>
 
 
+
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monika-senger&theme=monokai&row=1&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=monikasenger&theme=monokai&row=1&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🔁 Contribution Snake (optional setup)
+### 🐍 Contribution Graph (Snake Animation)
 
-```markdown
-![snake gif](https://github.com/monika-senger/monika-senger/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/monikasenger/monikasenger/blob/output/github-contribution-grid-snake.svg)
 
