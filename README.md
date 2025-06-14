@@ -91,9 +91,10 @@ JB Knowledge Park, MDU (2019–2022)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=gruvbox" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=gruvbox" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monikasenger&show_icons=true&theme=gruvbox" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikasenger&layout=compact&theme=gruvbox" height="160" />
 </p>
+
 
 ---
 
