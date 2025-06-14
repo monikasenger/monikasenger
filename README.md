@@ -1,101 +1,98 @@
-<h1 align="center">Hi 👋, I'm Monika Senger</h1>
-<h3 align="center">MCA Graduate | Java & MERN Stack Developer | Passionate Coder & UI Designer</h3>
+<!-- GitHub Profile README with Animation -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Monika+Senger+👋;Java+%7C+MERN+Stack+Developer+💻;MCA+Student+%7C+Full+Stack+Learner+🚀;Problem+Solver+%7C+UI+Designer+🎨;Welcome+to+my+GitHub+World!+🌍" alt="Typing animation" />
+</h1>
+
+---
 
 <p align="center">
-  <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/monika-senger"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="180"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:msenger054@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/monika-senger">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Summary
+### 💡 About Me
 
-🎓 MCA graduate with hands-on experience in both **web** and **desktop application development** using **Java** and the **MERN stack**.  
-💻 Skilled in backend APIs, frontend UI design, and secure authentication (RBAC, sessions).  
-🚀 Built real-world apps like doctor booking, book review platforms, and inventory systems.  
-🎯 Aiming to build scalable, reliable, and maintainable full-stack applications.
-
----
-
-### 💻 Technical Skills
-
-- **Languages:** Java, JavaScript  
-- **Frontend:** React.js (Component-based UI), HTML5, CSS3  
-- **Backend:** Node.js, Express.js, Java (JDBC & Spring Boot – learning)  
-- **Database:** MySQL, MongoDB  
-- **Auth & Security:** Session-based Login, Role-Based Access Control (RBAC)  
-- **Tools & IDEs:** Git, GitHub, Render, VS Code, Eclipse, IntelliJ IDEA, MySQL Workbench
+- 🎓 MCA Graduate from IMT (MDU Affiliated)  
+- 💻 Skilled in Java, React, Node.js, MongoDB & MySQL  
+- 🌱 Currently learning Spring Boot & Advanced Backend Concepts  
+- 💪 Passionate about clean code, UI design, and full-stack development  
+- 👑 Practicing mindfulness and building Queen Master vibes ✨  
 
 ---
 
-### 🚀 Projects
+### ⚙️ Tech Stack
 
-#### 📅 **Medished – Doctor Appointment System**
-- 🔧 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-- ✅ Built a system for 20+ doctors to manage bookings
-- 🔐 Role-based access for patients, doctors, and admins
-- 🌐 Deployed on Render | 👥 50+ active users
-
-#### 📚 **BookBuzz – Book Review Web App**
-- 🔧 **Tech Stack:** MERN Stack
-- 🔐 Admin-only access using session-based login
-- 📖 Managed 100+ books with clean component-based structure
-- 🚀 Live on Render | Maintained via GitHub
-
-#### 🧾 **InvenManSys – Inventory Management System**
-- 🔧 **Tech Stack:** Java, Swing, JDBC, MySQL
-- 📊 Managed 100+ products and customers
-- 💰 Applied pricing, tax, discount logic in billing
-- 💡 Built using Java Swing with 10+ custom UIs
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 🏅 Education
+### 🚀 My Projects
 
-- 🎓 **MCA** – Institute of Management and Technology (MDU)  
-  _Aug 2023 – Jun 2025_  
-- 🏗️ **B.Sc. Civil Engineering** – JB Knowledge Park (MDU)  
-  _Aug 2019 – Jun 2022_
-
----
-
-### 📜 Certifications & Achievements
-
-- 🧠 **AINCAT 2025 – Aptitude & IT Certified** (Naukri Campus)  
-- 🧮 **CodeClash & AlgoQuiz** – DSA Logic Competitions (Unstop)  
-- 🏢 **Project Nimaya** – Corporate project at Escorts Kubota  
-- 👩‍💻 **Java Full Stack (Angular)** – 435 hrs training (Anudip Foundation)
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| **Medished** | MERN Stack | Booking app with RBAC, 20+ doctors, REST APIs, deployed on Render |
+| **BookBuzz** | MERN Stack | Admin-only book review app, session auth, clean UI |
+| **InvenManSys** | Java + MySQL | Inventory + billing system with Java Swing forms and JDBC |
+| **.NET Web Apps** | ASP.NET | 15+ programs with cookies, session, inheritance & validation |
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=gruvbox" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-### ✨ GitHub Trophy (Animated)
+### 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monika-senger&theme=onestar&no-bg=true&no-frame=true" alt="Monika's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=monika-senger&theme=monokai&no-frame=true&row=1" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/monika-senger"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=monika-senger&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-> 🌱 *"Consistency, Courage & Code – That's my formula to grow as a Full-Stack Developer."* 💫
+### 🌐 Let’s Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/-Monika%20on%20LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/-msenger054@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+> ✨ *"Code with courage, grow with consistency, lead with grace."* – Monika 💖
 
 
