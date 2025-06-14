@@ -1,98 +1,109 @@
-<!-- GitHub Profile README with Animation -->
+<!-- Monika Senger - GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Monika+Senger+👋;Java+%7C+MERN+Stack+Developer+💻;MCA+Student+%7C+Full+Stack+Learner+🚀;Problem+Solver+%7C+UI+Designer+🎨;Welcome+to+my+GitHub+World!+🌍" alt="Typing animation" />
-</h1>
-
----
+<h1 align="center">Hi 👋, I'm Monika Senger</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=MCA+Graduate+%7C+Java+%26+MERN+Stack+Developer;Full+Stack+Developer+in+progress...;Always+learning+something+new!&center=true&width=500&height=50&color=F76C6C&vCenter=true&size=22">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:msenger054@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/monika-senger">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/monika-senger"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 About Me
+### 👩‍💻 About Me
 
-- 🎓 MCA Graduate from IMT (MDU Affiliated)  
-- 💻 Skilled in Java, React, Node.js, MongoDB & MySQL  
-- 🌱 Currently learning Spring Boot & Advanced Backend Concepts  
-- 💪 Passionate about clean code, UI design, and full-stack development  
-- 👑 Practicing mindfulness and building Queen Master vibes ✨  
-
----
-
-### ⚙️ Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+🎓 MCA graduate from IMT (MDU)  
+💻 Passionate about building real-world Java and MERN Stack applications  
+🛠️ Backend, frontend & database – I love working across the stack  
+🌱 Currently learning: `Spring Boot`, `JWT`, `OAuth`, `Advanced React`  
+🌸 Aiming to become a confident & creative Full Stack Developer  
 
 ---
 
-### 🚀 My Projects
+### 🧰 Tech Stack
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| **Medished** | MERN Stack | Booking app with RBAC, 20+ doctors, REST APIs, deployed on Render |
-| **BookBuzz** | MERN Stack | Admin-only book review app, session auth, clean UI |
-| **InvenManSys** | Java + MySQL | Inventory + billing system with Java Swing forms and JDBC |
-| **.NET Web Apps** | ASP.NET | 15+ programs with cookies, session, inheritance & validation |
+| Category         | Tools |
+|------------------|-------|
+| 🔤 Languages      | Java, JavaScript |
+| 🎨 Frontend       | React.js, HTML5, CSS3 |
+| 🧩 Backend        | Node.js, Express.js, Java JDBC |
+| 🗃️ Databases       | MySQL, MongoDB |
+| 🔐 Authentication | Session-based Login, Role-Based Access Control (RBAC) |
+| ⚙️ Tools & IDEs    | Git, GitHub, Render, VS Code, Eclipse, IntelliJ IDEA |
 
 ---
 
-### 🏆 GitHub Stats
+### 💼 Projects
+
+#### 🩺 Medished – Doctor Booking System (Apr–Jun 2025)
+**Tech:** MERN Stack  
+✅ 20+ doctors can manage appointments  
+🔐 Role-based access for patients, doctors & admins  
+📦 REST APIs + MongoDB Schema  
+🚀 Deployed on Render
+
+#### 📚 BookBuzz – Book Review App (May 2025)
+**Tech:** MERN Stack  
+🧑‍💼 Admin-only panel with secure login  
+📚 Managed 100+ books with clean UI  
+🚀 Live on Render, version-controlled via Git
+
+#### 🧾 InvenManSys – Inventory Manager (Nov–Dec 2024)  
+**Tech:** Java, JDBC, Swing, MySQL  
+📊 Billing system with tax & discounts  
+🧾 Managed 100+ products  
+💻 Built 10+ forms with Java Swing
+
+---
+
+### 🎓 Education
+
+🎓 MCA – Institute of Management and Technology (MDU) (2023–2025)  
+🏗️ B.Sc. Civil Engineering – JB Knowledge Park (MDU) (2019–2022)
+
+---
+
+### 🏅 Certifications & Achievements
+
+🏆 AINCAT 2025 – Aptitude & IT Certified (Naukri Campus)  
+🧠 CodeClash & AlgoQuiz – DSA Logic Competitions (Unstop)  
+🏢 Project Nimaya – Escorts Kubota Corporate Experience  
+👩‍💻 Java Full Stack (Angular) – 435 hrs Training (Anudip)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monika-senger&show_icons=true&theme=gruvbox" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-senger&layout=compact&theme=gruvbox" height="170"/>
 </p>
 
 ---
 
-### 🏅 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monika-senger&theme=monokai&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=monika-senger&theme=monokai&row=1&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+### ⌨️ Coding Vibes
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=monika-senger&theme=radical&hide_border=true" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-### 🌐 Let’s Connect!
+### 🐍 Contribution Snake Animation (Optional Setup)
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/-Monika%20on%20LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:msenger054@gmail.com"><img src="https://img.shields.io/badge/-msenger054@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-> ✨ *"Code with courage, grow with consistency, lead with grace."* – Monika 💖
-
+```markdown
+<!-- Uncomment and add this to a GitHub Action workflow to enable -->
+![snake gif](https://github.com/monika-senger/monika-senger/blob/output/github-contribution-grid-snake.svg)
 
