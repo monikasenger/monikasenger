@@ -50,11 +50,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monikasenger&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 ### 📈 GitHub Stats
