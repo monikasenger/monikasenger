@@ -1,4 +1,4 @@
-<!-- Monika Senger-->
+<!-- Monika Senger -->
 <h1 align="center">Hi there, I'm Monika Senger 👋</h1>
 
 <p align="center">
@@ -26,6 +26,7 @@
 </p>
 
 ---
+
 ### 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,6 +50,12 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monikasenger&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+---
 
 ### 📈 GitHub Stats
 
@@ -58,16 +65,27 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=monikasenger&theme=gruvbox" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikasenger&theme=gruvbox&hide_border=false" height="160"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monikasenger&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikasenger&theme=github_dark" height="200"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monikasenger&theme=github_dark&utcOffset=+5.5" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monikasenger&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monikasenger&theme=github_dark" height="150"/>
+</p>
+
 
 ---
 
@@ -84,6 +102,4 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=monikasenger&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-
----
 
