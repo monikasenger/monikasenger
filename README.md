@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Monika Senger 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Graduate+%7C+Java+%26+MERN+Stack+Developer;Passionate+about+Web+%26+Desktop+Applications;Currently+Learning+Spring+Boot+%26+Advanced+React;Full+Stack+Developer+in+Progress+🚀;Open+to+Internships+%26+Collaboration+🤝" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Graduate(+final+exams+completed,+result +awaited)+%7C+Java+%26+MERN+Stack+Developer;Passionate+about+Web+%26+Desktop+Applications;Currently+Learning+Spring+Boot+%26+Advanced+React;Full+Stack+Developer+in+Progress+🚀;Open+to+Internships+%26+Collaboration+🤝" alt="Typing Animation" />
 </p>
 
 ---
